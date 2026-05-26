@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is this website about?",
+    "answer": "This website tries to present the latest reliable information about COVID-19 in India. Though this is an UNOFFICIAL website, the Data is scraped from Ministry of Health and Family welfare of Indias website."
+  },
+  {
+    "question": "Why is the data here not latest?",
+    "answer": "The website tries to present the latest data by periodically (~15mins) checking the Ministrys website. As on now, the Ministry updates their website twice a day."
+  },
+  {
+    "question": "Why am I doing this?",
+    "answer": "There are websites like <a href=\"https://www.worldometers.info/coronavirus/\">Worldometer</a>, <a href=\"https://coronavirus.jhu.edu/map.html\">John Hopkins University</a>, etc., give detailed data like daily new patiemts, new deaths and historical charts. I am trying to give similar data for India and statewise details as well."
+  },
+  {
+    "question": "Acknowledgements:",
+    "answer": "- I am inspired by the worldwide websites mentioned above<br>- During development over the past few days, I saw a website <a href=\"https://www.covid19india.org/\">Covid19India</a> presenting latest details by crowdsourcing data from various sources. They are doing a wonderful job by tracking patient data and creating clusters for them. I tried to complement their website by giving statewise historical charts, sorting new patients/deaths statewise and few more additional details"
+  },
+  {
+    "question": "Your Feedback is valuable",
+    "answer": "In case you find any bugs or suggestions for enhancement, please email me at <a href=\"mailto:vishal.bala.test@gmail.com\">vishal.bala.test@gmail.com</a>"
+  }
+]

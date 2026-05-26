@@ -1,0 +1,224 @@
+{
+  "Assam": {
+    "phone": "6913347770",
+    "whatsapp": null,
+    "email": " hlbhealthassam@gmail.com",
+    "website": "https://hfw.assam.gov.in/"
+  },
+  "Bihar": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": null,
+    "website": "http://health.bih.nic.in/"
+  },
+  "Chhattisgarh": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": null,
+    "website": "http://www.cghealth.nic.in/cghealth17/"
+  },
+  "Goa": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": "directorhealth_goa@yahoo.co.in",
+    "website": "http://www.dhsgoa.gov.in/"
+  },
+  "Gujarat": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": "md-nrhm@gujarat.gov.in",
+    "website": "https://nhm.gujarat.gov.in/"
+  },
+  "Haryana": {
+    "phone": "8558893911",
+    "whatsapp": null,
+    "email": null,
+    "website": "http://haryanahealth.nic.in/"
+  },
+  "Himachal Pradesh": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": "dirhealthdhs@gmail.com",
+    "website": "https://himachal.nic.in/index.php?lang=1&dpt_id=19"
+  },
+  "Jharkhand": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": null,
+    "website": "https://ranchi.nic.in/health/"
+  },
+  "Karnataka": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": null,
+    "website": "https://karunadu.karnataka.gov.in/hfw/Pages/home.aspx"
+  },
+  "Kerala": {
+    "phone": "0471-2552056",
+    "whatsapp": null,
+    "email": "dhskerala@gmail.com",
+    "website": "https://dhs.kerala.gov.in/"
+  },
+  "Madhya Pradesh": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": "himanshu.jayswar@mp.gov.in",
+    "website": "http://health.mp.gov.in/en"
+  },
+  "Maharashtra": {
+    "phone": "020-26127394",
+    "whatsapp": null,
+    "email": null,
+    "website": "https://arogya.maharashtra.gov.in/"
+  },
+  "Manipur": {
+    "phone": "3852411668",
+    "whatsapp": null,
+    "email": null,
+    "website": "http://www.manipurhealthdirectorate.in/"
+  },
+  "Meghalaya": {
+    "phone": "108",
+    "whatsapp": null,
+    "email": null,
+    "website": "http://meghealth.gov.in/"
+  },
+  "Mizoram": {
+    "phone": "102",
+    "whatsapp": null,
+    "email": null,
+    "website": "https://health.mizoram.gov.in/"
+  },
+  "Nagaland": {
+    "phone": "7005539653",
+    "whatsapp": null,
+    "email": "nagalanddhfw@gmail.com",
+    "website": "http://nagahealth.nic.in/"
+  },
+  "Odisha": {
+    "phone": "9439994859",
+    "whatsapp": null,
+    "email": null,
+    "website": "https://health.odisha.gov.in/"
+  },
+  "Punjab": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": null,
+    "website": "http://pbhealth.gov.in/"
+  },
+  "Rajasthan": {
+    "phone": "0141-2225624",
+    "whatsapp": null,
+    "email": null,
+    "website": "http://www.rajswasthya.nic.in/"
+  },
+  "Sikkim": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": "dit-sik@nic.in",
+    "website": "https://sikkim.gov.in/departments/health-family-welfare-department"
+  },
+  "Tamil Nadu": {
+    "phone": "044-29510500",
+    "whatsapp": null,
+    "email": null,
+    "website": "https://tnhealth.tn.gov.in/"
+  },
+  "Telangana": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": null,
+    "website": "http://health.telangana.gov.in/"
+  },
+  "Tripura": {
+    "phone": "0381-2315879",
+    "whatsapp": null,
+    "email": null,
+    "website": "https://health.tripura.gov.in/"
+  },
+  "Uttarakhand": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": null,
+    "website": "https://www.ukhfws.org/"
+  },
+  "Uttar Pradesh": {
+    "phone": "18001805145",
+    "whatsapp": null,
+    "email": "janhithealthup@gmail.com",
+    "website": "http://up-health.in/en/"
+  },
+  "West Bengal": {
+    "phone": "1800313444222",
+    "whatsapp": null,
+    "email": "itcell.hfwdwb@gmail.com",
+    "website": "https://www.wbhealth.gov.in/"
+  },
+  "Andaman and Nicobar": {
+    "phone": "03192-232102",
+    "whatsapp": null,
+    "email": "dirdhs.and@nic.in",
+    "website": "https://dhs.andaman.gov.in/"
+  },
+  "Chandigarh": {
+    "phone": "9779558282",
+    "whatsapp": null,
+    "email": null,
+    "website": null
+  },
+  "Dadra and Nagar Haveli and Daman & Diu": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": null,
+    "website": null
+  },
+  "Delhi": {
+    "phone": "011-22307145",
+    "whatsapp": null,
+    "email": null,
+    "website": "http://health.delhigovt.nic.in/wps/wcm/connect/DoIT_Health/health/home/"
+  },
+  "Jammu & Kashmir": {
+    "phone": "01912520982",
+    "whatsapp": null,
+    "email": null,
+    "website": null
+  },
+  "Ladakh": {
+    "phone": "01982256462",
+    "whatsapp": null,
+    "email": null,
+    "website": null
+  },
+  "Lakshadweep": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": null,
+    "website": "http://lakdirhealth.nic.in/"
+  },
+  "Puducherry": {
+    "phone": "104",
+    "whatsapp": null,
+    "email": null,
+    "website": "https://www.nhmpuducherry.org.in/home"
+  },
+  "India": {
+    "phone": "11-23978046",
+    "whatsapp": "9013151515",
+    "email": "ncov2019@gmail.com",
+    "website": "https://mohfw.gov.in"
+  },
+  "Andhra Pradesh": {
+    "phone": "0866-2410978",
+    "whatsapp": null,
+    "email": "cfwhyd@yahoo.com",
+    "website": "http://hmfw.ap.gov.in/"
+  },
+  "Arunachal Pradesh": {
+    "phone": "9436055743",
+    "whatsapp": null,
+    "email": "dhsnlg@gmail.com",
+    "website": "http://health.arunachal.gov.in/"
+  }
+}
